@@ -1,9 +1,7 @@
-<title>
-p.serif {
-	font-family: "Times New Roman"; Times,serif;
+head {
+font-family: 'Patua One', sans-serif;
 }
-<br>
-</title>
+
 <style>
 .fa {
   padding: 20px;
